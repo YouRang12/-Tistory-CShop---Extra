@@ -19,3 +19,5 @@
 [C#]05.WinForm으로 배워보는 C# Part1 - String => (http://bitly.kr/TrjSjI)
 
 [C#]06.Winform으로 배워보는 C# Part2 - Data Type => (http://bitly.kr/FQQTNy)
+
+[C#]07.Winform으로 배워보는 C# Part3 - Method => (http://bitly.kr/pEkUzl)
